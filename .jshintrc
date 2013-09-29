@@ -1,0 +1,72 @@
+{
+    "passfail"      : false,
+    "maxerr"        : 0,
+    "browser"       : false,
+
+    "node"          : false,
+    "rhino"         : false,
+    "couch"         : false,
+    "wsh"           : false,
+
+    "jquery"        : false,
+    "prototypejs"   : false,
+    "mootools"      : false,
+    "dojo"          : false,
+
+    "predef"     : [
+        "expect",
+        "resemble",
+        "PIXI",
+
+        "console",
+        "require",
+        "exports",
+        "module",
+        "global",
+        "window",
+        "document",
+        "Image",
+        "HTMLImageElement",
+        "Uint16Array",
+        "Float32Array",
+        "XMLHttpRequest"
+    ],
+
+    "debug"         : false,
+    "devel"         : false,
+
+    "es5"           : false,
+    "strict"        : false,
+    "globalstrict"  : true,
+
+    "smarttabs"     : false,
+    "asi"           : true,
+    "laxbreak"      : false,
+    "bitwise"       : false,
+    "boss"          : false,
+    "curly"         : false,
+    "eqeqeq"        : false,
+    "eqnull"        : true,
+    "evil"          : false,
+    "expr"          : true,
+    "forin"         : false,
+    "immed"         : true,
+    "latedef"       : true,
+    "loopfunc"      : false,
+    "noarg"         : true,
+    "regexp"        : true,
+    "regexdash"     : false,
+    "scripturl"     : true,
+    "shadow"        : false,
+    "supernew"      : false,
+    "undef"         : false,
+
+    "newcap"        : true,
+    "noempty"       : true,
+    "nonew"         : false,
+    "nomen"         : false,
+    "onevar"        : false,
+    "plusplus"      : false,
+    "sub"           : false,
+    "trailing"      : true
+}

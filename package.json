@@ -1,0 +1,22 @@
+{
+  "author": "Dr. Kibitz <info@drkibitz.com>",
+  "bugs": "https://github.com/drkibitz/node-pixi/issues",
+  "dependencies": {
+    "chai": "~1.8.0"
+  },
+  "devDependencies": {
+    "grunt-browserify": "~1.2.4",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-jshint": "~0.6.4"
+  },
+  "description": "Test lib for node-pixi.",
+  "homepage": "http://drkibitz.github.io/node-pixi/",
+  "keywords": [
+    "pixi",
+    "test"
+  ],
+  "license": "MIT",
+  "name": "node-pixi-pixitest",
+  "repository": "https://github.com/drkibitz/node-pixi-pixitest",
+  "version": "0.0.1"
+}
