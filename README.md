@@ -57,3 +57,7 @@ grunt
 ## Contribute
 
 Want to contribute to node-pixi? Just make a pull request or a suggestion on [Github](https://github.com/drkibitz/node-pixi/issues). Please make sure you write tests, and run them before committing changes.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/drkibitz/node-pixi-pixitest/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
